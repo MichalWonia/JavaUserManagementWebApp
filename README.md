@@ -5,7 +5,7 @@ I did this simple project because I got interested in programming web applicatio
 It is an application that is used to manage users in a database.
 It allows viewing existing users, adding new users, editing and deleting. 
 This project has only one commit, when I uploaded it to the repository, because I did not know GIT when I started programming this app.
-This project also contains some unit tests.
+This project also contains some unit tests. I used Eclipse IDE to create this application.
 
 ## Used technologies
 - Maven,
