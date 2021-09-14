@@ -21,16 +21,16 @@ After launching the application in your browser, a home page will appear at the 
 
 <img src="images/home.png">
 
-After pressing the Manage users button, a table of users will appear.
+After pressing the "Manage users" button, a table of users will appear.
 
 <img src="images/usersTable.png">
 
-Press the Add new user button to add a new user. 
+Press the "Add new user" button to add a new user. 
 A form for adding a user will appear, which must be filled. 
 
 <img src="images/addFormFilled.png">
 
-Click Submit button to add new user.
+Click "Submit" button to add new user.
 
 <img src="images/usersTableNewUser.png">
 
