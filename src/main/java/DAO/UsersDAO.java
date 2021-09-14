@@ -18,7 +18,7 @@ public class UsersDAO {
 	public List<Users> listOfUsers(){
 		Session session = factory.getCurrentSession();
 		session.beginTransaction();
-		List<Users> users = session.createQuery("from YOUR_DB_TABLE_NAME").getResultList();
+		List<Users> users = session.createQuery("from users").getResultList();
 		
 		return users;
 	}
