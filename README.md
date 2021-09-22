@@ -5,7 +5,7 @@ I did this simple project because I got interested in programming web applicatio
 It is an application that is used to manage users in a database.
 It allows viewing existing users, adding new users, editing and deleting, so the basic CRUD operations are provided.
 This project has only one commit, when I uploaded it to the repository, because I did not know GIT when I started programming this app.  </br>
-This project also contains some unit tests, which I made using JUnit.  </br>
+This project also contains some unit tests, which I carried out using JUnit.  </br>
 I used Eclipse IDE to create this application.
 
 ## Used technologies
